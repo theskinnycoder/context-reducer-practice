@@ -1,0 +1,8 @@
+export const SET_TODOS = 'SET_TODOS'
+export const ADD_TODO = 'ADD_TODO'
+export const TOGGLE_TODO = 'TOGGLE_TODO'
+export const DELETE_TODO = 'DELETE_TODO'
+export const CLONE_TODO = 'CLONE_TODO'
+export const RESET_TODOS = 'RESET_TODOS'
+export const INCREMENT = 'INCREMENT'
+export const DECREMENT = 'DECREMENT'
